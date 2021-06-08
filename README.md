@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 - 🔭 I’m currently working as a Machine Learning Team Lead @ a stealth mode start-up
 - 🌱 I’m currently pursuing my Masters in Data Science @ University of Illinois, Urbana-Champaign
@@ -9,4 +9,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/boshikatara/
 - 😄 Pronouns: She/her
 
--->
+
