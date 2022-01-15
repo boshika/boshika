@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working as a Technical Product Manager, Machine Learning @ H&M Group
-- 🌱 I’m currently pursuing my Masters in Data Science @ University of Illinois, Urbana-Champaign - graduating May 2022
+- 🔭 Currently work as a Technical Product Manager, Machine Learning @ H&M Group
+- 🌱  Masters in Computer science-Data Science @ University of Illinois, Urbana-Champaign - graduating May 2022
 - ❌ Previously 
     - Machine Learning Engineer @ Capital One 
     - Research Associate II @ Stanford University
