@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Currently work as a Technical Product Manager, Machine Learning @ H&M 
+- 🔭 Currently work as a Technical Product Manager, AI, Analytics & Data @ H&M 
 - 🌱  Masters in Computer science-Data Science @ University of Illinois, Urbana-Champaign - graduating May 2022
 - ❌ Previously 
     - Machine Learning Tech Lead @ Stealth Mode AI Start-up Founded at Johns Hopkins University
