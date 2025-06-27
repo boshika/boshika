@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Currently work as a Technical Product Manager, Data Strategy & Governance @ the second largest global fashion retailer -  H&M 
-- 🌱  Masters in Computer science-Data Science @ University of Illinois, Urbana-Champaign - graduating December 2023
+- 🔭 Currently work as a Technical Product Manager, Data & AI @ the second largest global fashion retailer -  H&M 
+- 🌱  Masters in Computer Science-Data Science @ University of Illinois, Urbana-Champaign 
 - ❌ Previously 
     - Machine Learning Tech Lead @ Stealth Mode AI Start-up Founded at Johns Hopkins University
     - Machine Learning Engineer @ Capital One 
