@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Currently work as a Senior Product Manager, Data & AI @ the second largest global fashion retailer -  H&M 
+- 🔭 Currently work as a Lead Product Manager, Data & AI @ the second largest global fashion retailer -  H&M 
 - 🌱  Masters in Computer Science-Data Science @ University of Illinois, Urbana-Champaign 
 - ❌ Previously 
     - Machine Learning Tech Lead @ Stealth Mode AI Start-up Founded at Johns Hopkins University
