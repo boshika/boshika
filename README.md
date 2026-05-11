@@ -10,7 +10,7 @@
     - Senior Research Associate @ Stanford University
     - Masters in Bioinformatics @ Johns Hopkins University
     - Instructor, Software Engineering @ General Assembly, Galvanize
-- 💬 Ask me about UIUC MCS Program, Machine Learning, working in tech, product management, Living in Silicon Valley and now living in NYC
+- 💬 Ask me about UIUC MCS Program, Machine Learning, working in tech, product management, Growing up in San Francisco/Silicon Valley and now living in NYC
 - 📫 How to reach me: btara2@illinois.edu | https://www.linkedin.com/in/boshikatara/
 - 😄 Pronouns: She/her
 
